@@ -1,4 +1,4 @@
-# MEMs_and_GEMs
+# MEMs and GEMs
 
 This repository is supplementing the paper Guided extraction of genome-scale metabolic models for the integration and analysis of omics data. 
 
