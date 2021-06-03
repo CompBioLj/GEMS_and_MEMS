@@ -12,3 +12,4 @@ The main files are as follows:
 * [```04_ANOVA_enrichment.ipynb```](04_ANOVA_enrichment.ipynb): metabolic subsystem enrichment analysis performed on the results of ANOVA/randomization analysis.
 * [```05_test_pairs```](05_test_pairs): pairwise comparisons between different groups - only two groups are compared at the same time. Identification of metabolic reactions that are significantly changed between two groups.
 * [```06_pairs_enrichment.ipynb```](06_pairs_enrichment.ipynb): metabolic subsystem enrichment analysis performed on the results of pairwise comparisons between different groups.
+* [```jaccardIndex.R```](jaccardIndex.R): calculated jaccard indeces. 
