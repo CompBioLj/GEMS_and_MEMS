@@ -1,5 +1,11 @@
 # MEMs and GEMs
 
+---
+
+[![](https://img.shields.io/badge/doi-10.1016%2Fj.csbj.2021.06.009-brightgreen)](https://dx.doi.org/10.1016%2Fj.csbj.2021.06.009)
+
+---
+
 This repository is supplementing the paper Guided extraction of genome-scale metabolic models for the integration and analysis of omics data. 
 
 ## Main files
