@@ -2,7 +2,7 @@
 
 ---
 
-[![](https://img.shields.io/badge/doi-10.1016%2Fj.csbj.2021.06.009-brightgreen)](https://dx.doi.org/10.1016%2Fj.csbj.2021.06.009)
+[![](https://img.shields.io/badge/doi-10.1016%2Fj.csbj.2021.06.009-brightgreen)](https://dx.doi.org/10.1016/j.csbj.2021.06.009)
 
 ---
 
@@ -22,6 +22,6 @@ The main files are as follows:
 ## How to cite this repository
 If you are using this repository for your scientific work, please cite:
 
-Andrew Walakira, Damjana Rozman, Tadeja Režen, Miha Mraz, Miha Moškon, *Guided extraction of genome-scale metabolic models for the integration and analysis of omics data*, Computational and Structural Biotechnology Journal, Volume 19, 2021, Pages 3521-3530, https://dx.doi.org/10.1016%2Fj.csbj.2021.06.009
+Andrew Walakira, Damjana Rozman, Tadeja Režen, Miha Mraz, Miha Moškon, *Guided extraction of genome-scale metabolic models for the integration and analysis of omics data*, Computational and Structural Biotechnology Journal, Volume 19, 2021, Pages 3521-3530, https://dx.doi.org/10.1016/j.csbj.2021.06.009
 
 
